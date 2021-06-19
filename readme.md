@@ -1,5 +1,6 @@
 # serva
-![credit to Nick Shillingford](https://flic.kr/p/aCNwtP "credit to Nick Shillingford")
+<!-- ![credit to Nick Shillingford](https://flic.kr/p/aCNwtP "credit to Nick Shillingford") -->
+![](https://flic.kr/p/aCNwtP "credit to Nick Shillingford")
 Start a python server with the ability to copy your local address to clipboard or send it via email, set a custom port, and/or automatically open in browser of choice.  
 
 **why?** because you're worth it  
