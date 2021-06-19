@@ -64,26 +64,26 @@ Start a python server with the ability to copy your local address to clipboard o
 *Note:* Will not work unless a source email has been set in settings. You can use the same flags for setting[^3]  
 
 ### Supported Platforms
-    - [x] Windows
-    - [ ] Linux
-    - [ ] Mac
+- [x] Windows
+- [ ] Linux
+- [ ] Mac
 ### Supported protocols
-    - [ ] Gemini
-    - [ ] Gopher
-    - [x] HTML
+- [ ] Gemini
+- [ ] Gopher
+- [x] HTML
 ### Supported Email Services
-    - [x] Gmail[^6]
-    - [ ] Proton
-    - [ ] Hotmail
-    - [ ] Yahoo
-    - [ ] Yandex
+- [x] Gmail[^6]
+- [ ] Proton
+- [ ] Hotmail
+- [ ] Yahoo
+- [ ] Yandex
 ### Recognized Scripts
 If the targeted directory contains a file named "serve" with any of the following extensions, it will be run automatically  
-    - [x] js  
-    - [x] py  
-    - [x] sh  
-    - [x] ps1  
-    - [x] bat  
+- [x] js  
+- [x] py  
+- [x] sh  
+- [x] ps1  
+- [x] bat  
 
 
 
