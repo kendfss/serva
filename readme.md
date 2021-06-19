@@ -1,5 +1,5 @@
 # serva
-[]()
+![credit to Nick Shillingford](https://flic.kr/p/aCNwtP "credit to Nick Shillingford")
 Start a python server with the ability to copy your local address to clipboard or send it via email, set a custom port, and/or automatically open in browser of choice.  
 
 **why?** because you're worth it  
@@ -69,8 +69,8 @@ Start a python server with the ability to copy your local address to clipboard o
     - [ ] Linux
     - [ ] Mac
 ### Supported protocols
-    - [x] Gemini
-    - [x] Gopher
+    - [ ] Gemini
+    - [ ] Gopher
     - [x] HTML
 ### Supported Email Services
     - [x] Gmail[^6]
@@ -79,12 +79,12 @@ Start a python server with the ability to copy your local address to clipboard o
     - [ ] Yahoo
     - [ ] Yandex
 ### Recognized Scripts
-If the targeted directory contains a file named "serve" with any of the following extensions, it will be run automatically
-    - [x] js
-    - [x] py
-    - [x] sh
-    - [x] ps1
-    - [x] bat 
+If the targeted directory contains a file named "serve" with any of the following extensions, it will be run automatically  
+    - [x] js  
+    - [x] py  
+    - [x] sh  
+    - [x] ps1  
+    - [x] bat  
 
 
 
